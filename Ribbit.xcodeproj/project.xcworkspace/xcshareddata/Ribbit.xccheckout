@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>279BADCA-2C3A-443D-B599-4D3E59D293FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ribbit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>556EB2FBB8E66178E385EBD5E9F4CAC23CA2C8D4</key>
+		<string>https://github.com/imee12/ChatiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ribbit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>556EB2FBB8E66178E385EBD5E9F4CAC23CA2C8D4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/imee12/ChatiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>556EB2FBB8E66178E385EBD5E9F4CAC23CA2C8D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>556EB2FBB8E66178E385EBD5E9F4CAC23CA2C8D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ribbit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
