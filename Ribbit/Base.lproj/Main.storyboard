@@ -30,7 +30,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="951-1t-awW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2236" y="-1582"/>
+            <point key="canvasLocation" x="1918" y="-1344"/>
         </scene>
         <!--Ribbit-->
         <scene sceneID="qTl-HL-IYI">
@@ -62,11 +62,12 @@
                     </navigationItem>
                     <connections>
                         <segue destination="ikt-7A-n2k" kind="push" identifier="showLogin" id="pqj-Go-IYD"/>
+                        <segue destination="yr2-Cl-l2w" kind="show" identifier="showImage" id="U5c-CR-k6C"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="upc-Fl-u0H" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1504" y="-502"/>
+            <point key="canvasLocation" x="1458" y="-532"/>
         </scene>
         <!--Ribbit-->
         <scene sceneID="tT6-7b-Dxz">
@@ -119,7 +120,6 @@
                     <connections>
                         <outlet property="passwordField" destination="0FO-TM-OXF" id="U1p-vc-f3R"/>
                         <outlet property="usernameField" destination="kT4-ig-Bzx" id="vTk-dc-aq9"/>
-                        <segue destination="yr2-Cl-l2w" kind="show" identifier="showimage" id="Ypp-PQ-DuV"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="DzC-U5-Quz" userLabel="First Responder" sceneMemberID="firstResponder"/>

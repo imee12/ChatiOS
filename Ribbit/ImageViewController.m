@@ -10,18 +10,18 @@
 
 @implementation ImageViewController
 
-- (void) viewDidLoad
+- (void)viewDidLoad
 {
     [super viewDidLoad];
+    
     PFFile *imageFile = [self.message objectForKey:@"file"];
     NSURL *imageFileUrl = [[NSURL alloc] initWithString:imageFile.url];
     NSData *imageData = [NSData dataWithContentsOfURL:imageFileUrl];
-    self.ImageView.image = [UIImage imageWithData: imageData];
+    self.ImageView.image = [UIImage imageWithData:imageData];
     
     NSString *senderName = [self.message objectForKey:@"senderName"];
     NSString *title = [NSString stringWithFormat:@"Sent from %@", senderName];
     self.navigationItem.title = title;
-    
 }
 
 - (void)viewDidAppear:(BOOL)animated {
